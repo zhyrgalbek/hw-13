@@ -13,3 +13,8 @@
 .id{
     text-align: right;
 }
+
+.id span {
+    border: 1px solid #000;
+    padding: 10px;
+}
