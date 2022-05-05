@@ -1,0 +1,13 @@
+
+.block {
+    list-style: none;
+    /* border: 1px solid #000; */
+    width: 960px;
+    /* height: 4000px; */
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+}
